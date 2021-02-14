@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Palaash Kolhe",
+    "occupation":"software engineering student",
+    "description":"at the University of Waterloo. I like to design and program applications that solve problems I notice in the world around me",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"",
+    "email": "pkolhe@uwaterloo.ca",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://palaashkolhe.github.io",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/palaash/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/PalaashKolhe",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"resume",
+        "url":"https://drive.google.com/file/d/1eBEQoxgxr9BoAFxRBzKbJs1C9qvLowUh/view?usp=sharing",
+        "className":"fa fa-file"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of my skills I have developed working on various projects over the years.",
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"Candidate for Bachelors in Software Engineering",
+        "graduated":"2025",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Telus World of Science",
+        "title":"Robotics Lab Attendant",
+        "years":"Feb 2019 - Present",
+        "description":"Volunteered as a robotics lab attendant at the local science centre. I implemented a maze solver with the ROBOTC language in order to teach coding to customers. This was done by utilizing infrared and colour sensors that were attached to the robot."
+      },
+      {
+        "company":"Tech Talk Club",
+        "title":"President",
+        "years":"Sep 2019 - Jun 2020",
+        "description":"I co-founded a club in my high school that aimed to spread coding skills within our community. We did this by creating easy to understand workshops that taught HTML, CSS, and Python. My role in this was coordinating and leading a team of volunteers that would teach these workshops."
+      },
+      {
+        "company":"Walmart",
+        "title":"Seasonal Sales Associate",
+        "years":"Apr 2020 - Jun 2020",
+        "description":"Held a job as a seasonal sales associate that managed the electronics department by keeping products stocked and providing technical solutions to customers. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shady Assistant",
+        "category":"A pair of smart glasses that translate foreign language text into English. Implements an OCR script to analyze text and translates with the Google Translate API.",
+        "image":"smart-glasses.jpeg",
+        "url":"https://github.com/PalaashKolhe/Smart-Glasses",
+        "technologies": "Python, OpenCV, Webscraping"
+      },
+      {
+        "title":"Cash Flow Management App",
+        "category":"An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
+        "image":"app.png",
+        "url":"https://github.com/PalaashKolhe/Cash-Flow-Management-App",
+        "technologies": "Java, Firebase, Android Dev, Machine Learning (OCR)"
+      },
+      {
+        "title":"Stock Widget",
+        "category":"A widget that searches up any stock you want and scrapes relevant information such as live prices, change, dividend yield, etc.",
+        "image":"stock-widget.png",
+        "url":"https://github.com/PalaashKolhe/StockWidget",
+        "technologies": "Python, BeautifulSoup4, Matplotlib, GUI Dev"        
+      },
+      {
+        "title":"Portfolio Website",
+        "category":"My personal portfolio website created using React. Purely front-end development.",
+        "image":"portfolio-website.png",
+        "url":"https://github.com/PalaashKolhe/List-App",
+        "technologies": "React, Javascript"
+      },
+      {
+        "title":"Investing with Machine Learning",
+        "category":"A machine learning powered script that is trained off of stock data spanning all the way back to 2000 to label and predict whether a stock is worth buying. ",
+        "image":"machine-learning-investor.png",
+        "url":"https://github.com/PalaashKolhe/Investing-with-Machine-Learning",
+        "technologies": "Python, Regex, Numpy, Pandas"
+      },
+      {
+        "title":"Shopping List App",
+        "category":"A simple full stack application with a functioning back-end server(express.js, node.js) and database(MongoDB). The front end was created in react.js using the react-strap functionalities.",
+        "image":"shopping-list.png",
+        "url":"https://github.com/PalaashKolhe/List-App",
+        "technologies": "MERN stack (MongoDB, express.js, react.js, node.js)"
+      }   
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
