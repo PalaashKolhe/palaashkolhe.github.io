@@ -107,7 +107,7 @@
         "category":"An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
         "image":"app.png",
         "url":"https://github.com/PalaashKolhe/Cash-Flow-Management-App",
-        "technologies": "Java, Firebase, Android Dev, Machine Learning (OCR)"
+        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
       },
       {
         "title":"Stock Widget",
