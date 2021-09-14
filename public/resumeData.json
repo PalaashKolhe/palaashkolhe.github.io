@@ -46,9 +46,15 @@
     ],
     "work":[
       {
+        "company":"Utradea",
+        "title":"Technology Development Intern",
+        "years":"Feb 2019 - Present",
+        "description":"Worked as a Tech Dev Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
+      },
+      {
         "company":"Telus World of Science",
         "title":"Robotics Lab Attendant",
-        "years":"Feb 2019 - Present",
+        "years":"Feb 2019 - Jan 2021",
         "description":"Volunteered as a robotics lab attendant at the local science centre. I implemented a maze solver with the ROBOTC language in order to teach coding to customers. This was done by utilizing infrared and colour sensors that were attached to the robot."
       },
       {
@@ -107,7 +113,7 @@
         "category":"An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
         "image":"app.png",
         "url":"https://github.com/PalaashKolhe/Cash-Flow-Management-App",
-        "technologies": "Java, Firebase, Android Dev, Machine Learning (OCR)"
+        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
       },
       {
         "title":"Stock Widget",
@@ -142,12 +148,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
