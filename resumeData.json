@@ -46,9 +46,15 @@
     ],
     "work":[
       {
+        "company":"Ford Motor Company",
+        "title":"Softare Engineer Intern",
+        "years":"Jan 2022 - Apr 2022",
+        "description":"Employed as a Software Engineer Intern at the Ford Motor Company for my second co-op term. Worked with the Connectivity Dashboard and the Vehicle Health & Telemetry teams, both based in Michigan. I mainly worked with Java technologies such as Spring Boot and Micronaut, and received exposure to cloud services such as GCP and AWS through CI/CD pipelines."
+      },
+      {
         "company":"Utradea",
         "title":"Technology Development Intern",
-        "years":"Feb 2019 - Present",
+        "years":"May 2021 - Aug 2021",
         "description":"Worked as a Tech Dev Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
       },
       {
@@ -67,15 +73,15 @@
     "skills":[
       {
         "name":"Git",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"C",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"C++",
-        "level":"60%"
+        "level":"75%"
       },
       {
         "name":"Python",
@@ -83,11 +89,11 @@
       },
       {
         "name":"Java",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"JavaScript",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"HTML/CSS",
@@ -95,7 +101,7 @@
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"80%"
       }
     ]
   },
