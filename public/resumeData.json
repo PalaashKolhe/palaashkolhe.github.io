@@ -47,13 +47,13 @@
     "work":[
       {
         "company":"Zynga Inc.",
-        "title":"Softare Engineer Intern",
+        "title":"Software Engineer Intern",
         "years":"Sept 2022 - Dec 2022",
         "description":"Employed as a Software Engineer Intern at the game company, Zynga Inc., for my third co-op term. Placed on the Payments team where I learned all about how sensitive and critical teams operate. Worked with Spring, Angular.js, Jenkins, and other technologies to develop impactful features that directly affected revenue growth."
       },
       {
         "company":"Ford Motor Company",
-        "title":"Softare Engineer Intern",
+        "title":"Software Engineer Intern",
         "years":"Jan 2022 - Apr 2022",
         "description":"Employed as a Software Engineer Intern at the Ford Motor Company for my second co-op term. Worked with the Connectivity Dashboard and the Vehicle Health & Telemetry teams, both based in Michigan. I mainly worked with Java technologies such as Spring Boot and Micronaut, and received exposure to cloud services such as GCP and AWS through CI/CD pipelines."
       },
