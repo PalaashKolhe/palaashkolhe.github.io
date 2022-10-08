@@ -14,7 +14,7 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://palaashkolhe.github.io",
+    "website": "http://palaashkolhe.me",
     "resumedownload":"https://drive.google.com/file/d/1sLVwp4XidMc1tORAFN704zqrY98RD0kh/view?usp=sharing",
     "social":[
       {
@@ -46,6 +46,12 @@
     ],
     "work":[
       {
+        "company":"Zynga Inc.",
+        "title":"Softare Engineer Intern",
+        "years":"Sept 2022 - Dec 2022",
+        "description":"Employed as a Software Engineer Intern at the game company, Zynga Inc., for my third co-op term. Placed on the Payments team where I learned all about how sensitive and critical teams operate. Worked with Spring, Angular.js, Jenkins, and other technologies to develop impactful features that directly affected revenue growth."
+      },
+      {
         "company":"Ford Motor Company",
         "title":"Softare Engineer Intern",
         "years":"Jan 2022 - Apr 2022",
@@ -53,21 +59,9 @@
       },
       {
         "company":"Utradea",
-        "title":"Technology Development Intern",
+        "title":"Software Engineer Intern",
         "years":"May 2021 - Aug 2021",
-        "description":"Worked as a Tech Dev Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
-      },
-      {
-        "company":"Telus World of Science",
-        "title":"Robotics Lab Attendant",
-        "years":"Feb 2019 - Jan 2021",
-        "description":"Volunteered as a robotics lab attendant at the local science centre. I implemented a maze solver with the ROBOTC language in order to teach coding to customers. This was done by utilizing infrared and colour sensors that were attached to the robot."
-      },
-      {
-        "company":"Tech Talk Club",
-        "title":"President",
-        "years":"Sep 2019 - Jun 2020",
-        "description":"I co-founded a club in my high school that aimed to spread coding skills within our community. We did this by creating easy to understand workshops that taught HTML, CSS, and Python. My role in this was coordinating and leading a team of volunteers that would teach these workshops."
+        "description":"Worked as a Software Engineer Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
       }
     ],
     "skills":[
