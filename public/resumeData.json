@@ -1,159 +1,113 @@
 {
   "main": {
-    "name":"Palaash Kolhe",
-    "occupation":"software engineering student",
-    "description":"at the University of Waterloo. I like to design and program applications that solve problems I notice in the world around me",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"",
+    "name": "Palaash Kolhe",
+    "occupation": "software engineering student",
+    "description": "at the University of Waterloo. I like to design and program applications that solve problems I notice in the world around me",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "",
     "email": "pkolhe@uwaterloo.ca",
     "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
     "website": "http://palaashkolhe.me",
-    "resumedownload":"https://drive.google.com/file/d/1sLVwp4XidMc1tORAFN704zqrY98RD0kh/view?usp=sharing",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1sLVwp4XidMc1tORAFN704zqrY98RD0kh/view?usp=sharing",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/palaash/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/palaash/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"http://github.com/PalaashKolhe",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/PalaashKolhe",
+        "className": "fa fa-github"
       },
       {
-        "name":"resume",
-        "url":"./PalaashKolheResumeWebsite.pdf",
-        "className":"fa fa-file"
+        "name": "resume",
+        "url": "./PalaashKolheResume.pdf",
+        "className": "fa fa-file"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Some of my skills I have developed working on various projects over the years.",
-    "education":[
+  "resume": {
+    "skillmessage": "Some of my skills I have developed working on various projects over the years.",
+    "education": [
       {
-        "school":"University of Waterloo",
-        "degree":"Candidate for Bachelors in Software Engineering",
-        "graduated":"2025",
-        "description":""
+        "school": "University of Waterloo",
+        "degree": "Candidate for Bachelors in Software Engineering",
+        "graduated": "2025",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Zynga Inc.",
-        "title":"Software Engineer Intern",
-        "years":"Sept 2022 - Present",
-        "description":"Employed as a Software Engineer Intern at the game company, Zynga Inc., for my third co-op term. Placed on the Payments team where I learned all about how sensitive and critical teams operate. Worked with Spring, Angular.js, Jenkins, and other technologies to develop impactful features that directly affected revenue growth."
+        "company": "Terrace",
+        "title": "Software Engineer Intern",
+        "years": "May 2023 - Aug 2023",
+        "description": "Performed the role of a Software Engineer Intern at Terrace, an institutional-grade trading platform for decentralized finance. There I worked with TypeScript and Golang to tackle various challenges, such as implementing the A-star search algorithm to discover the shortest path between market outlets and leveraging external APIs to maintain current internal asset information."
       },
       {
-        "company":"Ford Motor Company",
-        "title":"Software Engineer Intern",
-        "years":"Jan 2022 - Apr 2022",
-        "description":"Employed as a Software Engineer Intern at the Ford Motor Company for my second co-op term. Worked with the Connectivity Dashboard and the Vehicle Health & Telemetry teams, both based in Michigan. I mainly worked with Java technologies such as Spring Boot and Micronaut, and received exposure to cloud services such as GCP and AWS through CI/CD pipelines."
+        "company": "Zynga Inc.",
+        "title": "Software Engineer Intern",
+        "years": "Sept 2022 - Dec 2022",
+        "description": "Employed as a Software Engineer Intern at the game company, Zynga Inc., for my third co-op term. Placed on the Payments team where I learned all about how sensitive and critical teams operate. Worked with Spring, Angular.js, Jenkins, and other technologies to develop impactful features that directly affected revenue growth."
       },
       {
-        "company":"Utradea",
-        "title":"Software Engineer Intern",
-        "years":"May 2021 - Aug 2021",
-        "description":"Worked as a Software Engineer Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"80%"
+        "company": "Ford Motor Company",
+        "title": "Software Engineer Intern",
+        "years": "Jan 2022 - Apr 2022",
+        "description": "Employed as a Software Engineer Intern at the Ford Motor Company for my second co-op term. Worked with the Connectivity Dashboard and the Vehicle Health & Telemetry teams, both based in Michigan. I mainly worked with Java technologies such as Spring Boot and Micronaut, and received exposure to cloud services such as GCP and AWS through CI/CD pipelines."
       },
       {
-        "name":"C",
-        "level":"80%"
-      },
-      {
-        "name":"C++",
-        "level":"75%"
-      },
-      {
-        "name":"Python",
-        "level":"85%"
-      },
-      {
-        "name":"Java",
-        "level":"90%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"90%"
-      },
-      {
-        "name":"HTML/CSS",
-        "level":"90%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "company": "Utradea",
+        "title": "Software Engineer Intern",
+        "years": "May 2021 - Aug 2021",
+        "description": "Worked as a Software Engineer Intern at a fin-tech startup company based in Toronto. I leveraged technologies such as React.js, Node.js, MongoDB, etc. to create full-stack applications and further the company's mission to increase access to quality investment ideas and insights. Being my first internship, I learned a lot about technical standards and worked with many essential technologies."
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Shady Assistant",
-        "category":"A pair of smart glasses that translate foreign language text into English. Implements an OCR script to analyze text and translates with the Google Translate API.",
-        "image":"smart-glasses.jpeg",
-        "url":"https://github.com/PalaashKolhe/Smart-Glasses",
+        "title": "DeFi Creditor",
+        "category": "A decentralized lending and borrowing platform that eliminates predatory interest rates by allowing users to set their own rates. Operates on the Ethereum blockchain, promoting financial inclusivity.",
+        "image": "defi-creditor.png",
+        "url": "https://github.com/PalaashKolhe/DeFi-Lending-and-Borrowing",
+        "technologies": "Solidity, React.js, Ethers.js, Blockchain"
+      },
+      {
+        "title": "Shady Assistant",
+        "category": "A pair of smart glasses that translate foreign language text into English. Implements an OCR script to analyze text and translates with the Google Translate API.",
+        "image": "smart-glasses.jpeg",
+        "url": "https://github.com/PalaashKolhe/Smart-Glasses",
         "technologies": "Python, OpenCV, Webscraping"
       },
       {
-        "title":"Cash Flow Management App",
-        "category":"An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
-        "image":"app.png",
-        "url":"https://github.com/PalaashKolhe/Cash-Flow-Management-App",
-        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
+        "title": "MealDrop",
+        "category": "An innovative application that bridges the gap between surplus restaurant food and hunger relief organizations. MealDrop addresses food waste concerns and hunger by connecting food donors with those in need.",
+        "image": "meal-drop.png",
+        "url": "https://github.com/PalaashKolhe/Meal-Drop",
+        "technologies": "MongoDB, Express, React.js, Node.js, Google Cloud Platform"
       },
       {
-        "title":"Stock Widget",
-        "category":"A widget that searches up any stock you want and scrapes relevant information such as live prices, change, dividend yield, etc.",
-        "image":"stock-widget.png",
-        "url":"https://github.com/PalaashKolhe/StockWidget",
-        "technologies": "Python, BeautifulSoup4, Matplotlib, GUI Dev"        
+        "title": "Stock Widget",
+        "category": "A widget that searches up any stock you want and scrapes relevant information such as live prices, change, dividend yield, etc.",
+        "image": "stock-widget.png",
+        "url": "https://github.com/PalaashKolhe/StockWidget",
+        "technologies": "Python, BeautifulSoup4, Matplotlib, GUI Dev"
       },
       {
-        "title":"Portfolio Website",
-        "category":"My personal portfolio website created using React. Purely front-end development.",
-        "image":"portfolio-website.png",
-        "url":"https://github.com/PalaashKolhe/palaashkolhe.github.io",
-        "technologies": "React, Javascript"
-      },
-      {
-        "title":"Investing with Machine Learning",
-        "category":"A machine learning powered script that is trained off of stock data spanning all the way back to 2000 to label and predict whether a stock is worth buying. ",
-        "image":"machine-learning-investor.png",
-        "url":"https://github.com/PalaashKolhe/Investing-with-Machine-Learning",
+        "title": "Investing with Machine Learning",
+        "category": "A machine learning powered script that is trained off of stock data spanning all the way back to 2000 to label and predict whether a stock is worth buying. ",
+        "image": "machine-learning-investor.png",
+        "url": "https://github.com/PalaashKolhe/Investing-with-Machine-Learning",
         "technologies": "Python, Regex, Numpy, Pandas"
       },
       {
-        "title":"Shopping List App",
-        "category":"A simple full stack application with a functioning back-end server(express.js, node.js) and database(MongoDB). The front end was created in react.js using the react-strap functionalities.",
-        "image":"shopping-list.png",
-        "url":"https://github.com/PalaashKolhe/List-App",
-        "technologies": "MERN stack (MongoDB, express.js, react.js, node.js)"
-      }   
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"",
-        "user":""
-      },
-      {
-        "text":"",
-        "user":""
+        "title": "Cash Flow Management App",
+        "category": "An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
+        "image": "app.png",
+        "url": "https://github.com/PalaashKolhe/Cash-Flow-Management-App",
+        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
       }
     ]
   }
