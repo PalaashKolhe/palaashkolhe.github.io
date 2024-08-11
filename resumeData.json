@@ -40,10 +40,22 @@
     ],
     "work": [
       {
+        "company": "Replit",
+        "title": "Software Engineer Intern",
+        "years": "Jun 2024 - Aug 2024",
+        "description": "Performed the role of a Software Engineer Intern at Replit, an online integrated development environment which allows users to create online programming projects. There I worked with TypeScript and Go to drive 2 distinct projects (deployment suspensions and deployment rollbacks) from ideation to rollout, serving my work to 3000+ users."
+      },
+      {
+        "company": "Adentro",
+        "title": "Software Engineer Intern",
+        "years": "Jan 2024 - April 2024",
+        "description": "Worked as a Software Engineer Intern at Adentro, a company that develops CRM software and tools. I utilized Go and Python to build logic to drive analytics and warehousing tools. I also assisted the team on the migration effort for MongoDB, upgrading 80+ files to the latest driver."
+      },
+      {
         "company": "Terrace",
         "title": "Software Engineer Intern",
         "years": "May 2023 - Aug 2023",
-        "description": "Performed the role of a Software Engineer Intern at Terrace, an institutional-grade trading platform for decentralized finance. There I worked with TypeScript and Golang to tackle various challenges, such as implementing the A-star search algorithm to discover the shortest path between market outlets and leveraging external APIs to maintain current internal asset information."
+        "description": "Performed the role of a Software Engineer Intern at Terrace, an institutional-grade trading platform for decentralized finance. There I worked with TypeScript and Go to tackle various challenges, such as implementing the A-star search algorithm to discover the shortest path between market outlets and leveraging external APIs to maintain current internal asset information."
       },
       {
         "company": "Zynga Inc.",
@@ -68,18 +80,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "No Place for Hate",
+        "category": "A Chrome extension that harnesses AI to instantly detect and block online hate speech, promoting a safer and more inclusive browsing experience.",
+        "image": "no-place-for-hate.jpg",
+        "url": "https://devpost.com/software/no-place-for-hate",
+        "technologies": "JavaScript, HTML, CSS, FastAPI"
+      },
+      {
         "title": "DeFi Creditor",
         "category": "A decentralized lending and borrowing platform that eliminates predatory interest rates by allowing users to set their own rates. Operates on the Ethereum blockchain, promoting financial inclusivity.",
         "image": "defi-creditor.png",
         "url": "https://github.com/PalaashKolhe/DeFi-Lending-and-Borrowing",
         "technologies": "Solidity, React.js, Ethers.js, Blockchain"
-      },
-      {
-        "title": "Shady Assistant",
-        "category": "A pair of smart glasses that translate foreign language text into English. Implements an OCR script to analyze text and translates with the Google Translate API.",
-        "image": "smart-glasses.jpeg",
-        "url": "https://github.com/PalaashKolhe/Smart-Glasses",
-        "technologies": "Python, OpenCV, Webscraping"
       },
       {
         "title": "MealDrop",
@@ -89,11 +101,18 @@
         "technologies": "MongoDB, Express, React.js, Node.js, Google Cloud Platform"
       },
       {
-        "title": "Stock Widget",
-        "category": "A widget that searches up any stock you want and scrapes relevant information such as live prices, change, dividend yield, etc.",
-        "image": "stock-widget.png",
-        "url": "https://github.com/PalaashKolhe/StockWidget",
-        "technologies": "Python, BeautifulSoup4, Matplotlib, GUI Dev"
+        "title": "Shady Assistant",
+        "category": "A pair of smart glasses that translate foreign language text into English. Implements an OCR script to analyze text and translates with the Google Translate API.",
+        "image": "smart-glasses.jpeg",
+        "url": "https://github.com/PalaashKolhe/Smart-Glasses",
+        "technologies": "Python, OpenCV, Webscraping"
+      },
+      {
+        "title": "Cash Flow Management App",
+        "category": "An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
+        "image": "app.png",
+        "url": "https://github.com/PalaashKolhe/Cash-Flow-Management-App",
+        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
       },
       {
         "title": "Investing with Machine Learning",
@@ -103,11 +122,11 @@
         "technologies": "Python, Regex, Numpy, Pandas"
       },
       {
-        "title": "Cash Flow Management App",
-        "category": "An Android App that scans items in receipts using Firebase's OCR model to display spending habits. Categorizes this data and presents in the form of a pie chart.",
-        "image": "app.png",
-        "url": "https://github.com/PalaashKolhe/Cash-Flow-Management-App",
-        "technologies": "Java, Firebase, React Native, Machine Learning (OCR)"
+        "title": "Stock Widget",
+        "category": "A widget that searches up any stock you want and scrapes relevant information such as live prices, change, dividend yield, etc.",
+        "image": "stock-widget.png",
+        "url": "https://github.com/PalaashKolhe/StockWidget",
+        "technologies": "Python, BeautifulSoup4, Matplotlib, GUI Dev"
       }
     ]
   }
