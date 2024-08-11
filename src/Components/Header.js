@@ -3,11 +3,11 @@ import React, { Component } from 'react';
 class Header extends Component {
   render() {
 
-    if(this.props.data){
+    if (this.props.data) {
       var name = this.props.data.name;
-      var occupation= this.props.data.occupation;
-      var description= this.props.data.description;
-      var networks= this.props.data.social.map(function(network){
+      var occupation = this.props.data.occupation;
+      var description = this.props.data.description;
+      var networks = this.props.data.social.map(function (network) {
         return <li key={network.name}><a href={network.url} target='_blank'><i className={network.className}></i></a></li>
       })
     }
@@ -15,22 +15,22 @@ class Header extends Component {
     return (
       <header id="home">
 
-      <div className="row banner">
-         <div className="banner-text">
+        <div className="row banner">
+          <div className="banner-text">
             <h1 className="responsive-headline">Hi! My name is {name}.</h1>
             <h3>I'm a <span>{occupation}</span> {description}.</h3>
             <hr />
             <ul className="social">
-               {networks}
+              {networks}
             </ul>
-         </div>
-      </div>
+          </div>
+        </div>
 
-      <p className="scrolldown">
-         <a className="smoothscroll" href="#portfolio"><i className="icon-down-circle"></i></a>
-      </p>
+        <p className="scrolldown">
+          <a className="smoothscroll" href="#portfolio"><i className="icon-down-circle"></i></a>
+        </p>
 
-   </header>
+      </header>
     );
   }
 }
